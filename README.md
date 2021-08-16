@@ -1,3 +1,8 @@
+# Study a PhoenixChannel project from a video
+
+video link:
+https://www.bilibili.com/video/BV124411E7Nw
+
 # StudyPhoenixChannelBackend
 
 To start your Phoenix server:
