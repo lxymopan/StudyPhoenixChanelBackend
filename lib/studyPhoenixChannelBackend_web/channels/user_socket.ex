@@ -2,7 +2,7 @@ defmodule StudyPhoenixChannelBackendWeb.UserSocket do
   use Phoenix.Socket
 
   ## Channels
-  # channel "room:*", StudyPhoenixChannelBackendWeb.RoomChannel
+  channel "talk:*", StudyPhoenixChannelBackendWeb.TalkChannel
 
   # Socket params are passed from the client and can
   # be used to verify and authenticate a user. After
